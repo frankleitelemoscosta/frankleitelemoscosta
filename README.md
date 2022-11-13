@@ -10,7 +10,7 @@ tive a primeira experiencia na empresa CEVA SAÚDE ANIMAL, tenho em mente navega
 mundo da computação, compartilhando com meus companheiros tudo que aprendi, proporcinando
 evolução mutua, e trabalho produtivo por onde passar na minha carreira.
 
-    Sinta se a vontade para conhecer um pouco mais meus projetos e a maneira como
+   Sinta se a vontade para conhecer um pouco mais meus projetos e a maneira como
 programo, aqui estão meus melhores projetos ja desenvolvidos, tive o imenso prazer
 de disponibiliza-los aqui para que você pudesse sentir um pouco do meu conhecimento
 nas linguagens que aprendi durante minha formação acadêmica.
