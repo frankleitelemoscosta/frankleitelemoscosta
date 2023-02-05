@@ -1,7 +1,7 @@
 # Hi there 👋, Welcome to my profile in Github!
 # Olá 👋, Seja bem vindo(a) ao meu perfil no Github!
 
-## Um pouco sobre a minha pessoa
+## Um pouco sobre a minha pessoa/about me
 
    Sou estudante do Ensino Superior, no curso de Engenharia da Computação, o qual curso
 no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), sou completamente
