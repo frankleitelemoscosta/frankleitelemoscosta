@@ -19,6 +19,8 @@ nas linguagens que aprendi durante minha formação acadêmica.
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=frankleitelemoscosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Frank wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=frankleitelemoscosta)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **frankleitelemoscosta/frankleitelemoscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
