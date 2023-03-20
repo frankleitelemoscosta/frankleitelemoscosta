@@ -15,7 +15,7 @@ programo, aqui estão meus melhores projetos ja desenvolvidos, tive o imenso pra
 de disponibiliza-los aqui para que você pudesse sentir um pouco do meu conhecimento
 nas linguagens que aprendi durante minha formação acadêmica.
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![Frank status](https://github-readme-stats.vercel.app/api?username=frankleitelemoscosta&show_icons=true)
 
 
 <!--
