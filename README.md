@@ -15,6 +15,8 @@ programo, aqui estão meus melhores projetos ja desenvolvidos, tive o imenso pra
 de disponibiliza-los aqui para que você pudesse sentir um pouco do meu conhecimento
 nas linguagens que aprendi durante minha formação acadêmica.
 
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+
 
 <!--
 **frankleitelemoscosta/frankleitelemoscosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
