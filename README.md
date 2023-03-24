@@ -17,7 +17,7 @@ nas linguagens que aprendi durante minha formação acadêmica.
 
 ![Frank status](https://github-readme-stats.vercel.app/api?username=frankleitelemoscosta&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=frankleitelemoscosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="image/html5.png" alt="" style="width: 20%">
+<img src="image/html5.png" alt="" style="width: 20%"> <img src="image/logoC++.png" alt="" style="width: 20%"> <img src="image/logo-C.png" alt="" style="width: 20%"> <img src="image/Logo_Python.webp" alt="" style="width: 20%">
 
 
 
