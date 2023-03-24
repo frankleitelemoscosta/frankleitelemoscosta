@@ -15,9 +15,7 @@ programo, aqui estão meus melhores projetos ja desenvolvidos, tive o imenso pra
 de disponibiliza-los aqui para que você pudesse sentir um pouco do meu conhecimento
 nas linguagens que aprendi durante minha formação acadêmica.
 
-![Frank status](https://github-readme-stats.vercel.app/api?username=frankleitelemoscosta&show_icons=true)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=frankleitelemoscosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Frank status](https://github-readme-stats.vercel.app/api?username=frankleitelemoscosta&show_icons=true) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=frankleitelemoscosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
